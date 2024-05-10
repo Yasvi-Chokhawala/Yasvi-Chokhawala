@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Yasvi Chokhawala, a tech enthusiast exploring software engineering at Uka Tarsadia University, Gujarat. 🚀<br><br>Passionate about crafting innovative solutions, I thrive on turning ideas into reality using languages like JavaScript, Python, and C. 🌟<br><br>Beyond coding, I enjoy dancing, reading, writing and discovering new music. Balancing work and life fuels my creativity. 💪🌈<br><br>Let's connect and collaborate on exciting projects! Reach out at [Linkedin] 💌✨
+👋 Hi, I'm Yasvi Chokhawala, a tech enthusiast exploring software engineering at Uka Tarsadia University, Gujarat. 🚀<br><br>Passionate about crafting innovative solutions, I thrive on turning ideas into reality using languages like JavaScript, Python, and C. 🌟<br><br>Beyond coding, I enjoy dancing, reading, writing and discovering new music. Balancing work and life fuels my creativity. 💪🌈<br><br>Let's connect and collaborate on exciting projects! Reach out at [Linkedin](https://www.linkedin.com/in/yasvi-chokhawala-0a856328b/) 💌✨
 
 <img align="right" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e476pvvicrob9xtlp67pu7yuat2759zxdf188mrb1ge&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300px" alt="Coding">
 
