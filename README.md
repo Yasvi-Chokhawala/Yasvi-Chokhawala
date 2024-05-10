@@ -3,6 +3,7 @@
 # 💫 About Me:
 👋 Hi, I'm Yasvi Chokhawala, a tech enthusiast and second-year student at Uka Tarsadia University, Gujarat, majoring in Software Engineering. 🚀<br><br>Passionate about transforming ideas into reality, I specialize in web development with a strong focus on Django, JavaScript, and Python. 🌟<br><br>I bring creativity and precision to every project, whether it's crafting responsive web applications or developing dynamic backend systems. 💻<br><br>In addition to my web development skills, I also have hands-on experience in Mobile App Development with Android and iOS, as well as proficiency in languages like C, Java, and others. 📱<br><br>Beyond tech, I find immense joy in reading books, exploring new ideas, and expressing myself through writing. Balancing my passion for technology with these creative pursuits fuels my inspiration. 💪🌈<br><br>Let's connect and collaborate on exciting projects! Feel free to reach out on LinkedIn 💌✨
 
+<img align="right" src="https://i.imgflip.com/65efzo.gif" width="300px" alt="Coding">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yasvi-chokhawala-0a856328b) 
